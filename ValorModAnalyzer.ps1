@@ -1,7 +1,3 @@
-# Valor Mod Analyzer - PowerShell Script
-# Version: 3.0 Enhanced (Stealth Edition)
-# Modified by Rayan for Clack - Exact Original Design + Simulated Delay
-
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 # ASCII Art Banner
